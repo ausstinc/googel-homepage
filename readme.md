@@ -1,0 +1,1 @@
+This project is going to test my HTML and CSS skills via the Odin Projects direction.ß
